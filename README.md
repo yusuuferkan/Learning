@@ -41,12 +41,10 @@ Linkedin: https://www.linkedin.com/in/yusuferkan1/
 
 If you want to contact me, you can reach me through social handles.
 
+- ✔️ Click to see **<a href="https://github.com/yusuuferkan?tab=repositories">My Projects**
 
-© 2022 Prathima Kadari
+- 📫 How to reach me **yusuf.erkan@gazi.edu.tr**
 
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://www.linkedin.com/in/yusuferkan1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yusuferkan1/" height="30" width="40" /></a>
 
 </p>
