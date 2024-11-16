@@ -46,9 +46,7 @@ If you want to contact me, you can reach me through social handles.
 - 📫 How to reach me **yusuf.erkan@gazi.edu.tr**
 
 <a href="https://www.linkedin.com/in/yusuferkan1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yusuferkan1/" height="30" width="40" /></a>
-
 <a href="https://www.kaggle.com/yusuuferkan" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="https://www.kaggle.com/yusuuferkan" height="30" width="40" /></a>
-
 <a href="https://github.com/yusuuferkan?tab=repositories" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="https://github.com/yusuuferkan?tab=repositories" height="30" width="40" /></a>
 
 </p>
